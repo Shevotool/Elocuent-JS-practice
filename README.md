@@ -3,7 +3,7 @@
 
 This repository contains different resolved exercises related to the book Elocuent JS, you can see all the different JavaScript exercises in the js file.
 
-![Badge Developing](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+![Badge Developing](https://img.shields.io/badge/STATUS-%20DEVELOPING-green)
 
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+![GitHub Org's stars](https://img.shields.io/github/stars/shevotool?style=social)
 
